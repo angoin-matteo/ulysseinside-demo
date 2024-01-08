@@ -6,9 +6,9 @@ export default function NotFound() {
       <div className="text-center">
         <p className="text-base font-semibold text-blue">404</p>
         <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl">Page non trouvée</h1>
-        <p className="mt-6 text-base leading-7 text-gray-600">Désolé, nous n'avons pas pu trouver la page que vous recherchez.</p>
+        <p className="mt-6 text-base leading-7 text-gray-600">Désolé, nous n&apos;avons pas pu trouver la page que vous recherchez.</p>
         <div className="mt-10 flex items-center justify-center gap-x-6">
-          <Link href="/" className="rounded-md bg-blue px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[rgba(68,195,186,245)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue">Revenir à l'accueil</Link>
+          <Link href="/" className="rounded-md bg-blue px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[rgba(68,195,186,245)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue">Revenir à l&apos;accueil</Link>
         </div>
       </div>
     </main>    

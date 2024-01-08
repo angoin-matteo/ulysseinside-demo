@@ -79,7 +79,7 @@ function Testimonial() {
         {/* <Image width={0} height={0} className="mx-auto h-12" src="" alt="" /> */}
           <figure className="mt-10">
             <blockquote className="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
-              <p>“C'est de la balle!”</p>
+              <p>“C&apos;est de la balle!”</p>
             </blockquote>
             <figcaption className="mt-10">
               <Image width={0} height={0} className="mx-auto h-10 w-10 rounded-full" src={Matteo} alt="Mattéo" />
