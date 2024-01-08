@@ -9,11 +9,7 @@ function Icon({
   className: string,
   children: React.ReactNode,
 }) {
-  return (
-    <Link className={className} href={href}>
-      {children}
-    </Link>
-  )
+  return <Link className={className} href={href}>{children}</Link>
 }
 
 export default function Footer() {
