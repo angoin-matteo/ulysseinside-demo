@@ -1,0 +1,53 @@
+{
+  "app": {
+    "lang": {
+      "notFound": {
+        "title": "Page non trouvée",
+        "subTitle": "Désolé, nous n’avons pas trouvé la page que vous recherchez.",
+        "goBackHome": "Revenir à l'accueil",
+        "callToAction": "Formations"
+      }
+    }
+  },
+  "components": {
+    "header": {
+      "menu": {
+        "product": "Produits",
+        "pricing": "Tarifs",
+        "company": "Société",
+        "blog": "Blog",
+        "translate": {
+          "americanFlagAlt": "Drapeau américain",
+          "frenchFlagAlt": "Drapeau français"
+        }
+      },
+      "subMenu": {
+        "watchDemo": "Voir la démo",
+        "contactUs": "Contactez-nous",
+        "analytics": {
+          "title": "Analyse",
+          "subTitle": "Déchiffrez les graphiques"
+        },
+        "trainings": {
+          "title": "Formations",
+          "subTitle": "Formez-vous et devenez libre financièrement"
+        },
+        "security": {
+          "title": "Sécurité",
+          "subTitle": "Gagnez gros mais ne perdez jamais"
+        },
+        "integrations": {
+          "title": "Intégrations",
+          "subTitle": "Munissez-vous des meilleurs outils"
+        },
+        "automations": {
+          "title": "Automatisations",
+          "subTitle": "Faites confiance aux logiciels Crypto"
+        }
+      }
+    },
+    "logo": {
+      "alt": "Logo d'Ulysse Inside"
+    }
+  }
+}

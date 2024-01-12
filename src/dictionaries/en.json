@@ -1,0 +1,53 @@
+{
+  "app": {
+    "lang": {
+      "notFound": {
+        "title": "Page not found",
+        "subTitle": "Sorry, we couldn’t find the page you’re looking for.",
+        "goBackHome": "Go back home",
+        "callToAction": "Trainings"
+      }
+    }
+  },
+  "components": {
+    "header": {
+      "menu": {
+        "product": "Product",
+        "pricing": "Pricing",
+        "company": "Company",
+        "blog": "Blog",
+        "translate": {
+          "americanFlagAlt": "American flag",
+          "frenchFlagAlt": "French flag"
+        }
+      },
+      "subMenu": {
+        "watchDemo": "Watch demo",
+        "contactUs": "Contact us",
+        "analytics": {
+          "title": "Analytics",
+          "subTitle": "Understand what it means"
+        },
+        "trainings": {
+          "title": "Trainings",
+          "subTitle": "Train yourself and be free forever"
+        },
+        "security": {
+          "title": "Security",
+          "subTitle": "Earn a lot and save it"
+        },
+        "integrations": {
+          "title": "Integrations",
+          "subTitle": "Adopt the best tools available"
+        },
+        "automations": {
+          "title": "Automations",
+          "subTitle": "Trust the Crypto's softwares"
+        }
+      }
+    },
+    "logo": {
+      "alt": "Ulysse Inside's logo"
+    }
+  }
+}
